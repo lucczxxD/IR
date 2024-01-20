@@ -1,8 +1,6 @@
 <h1>IR 2000</h1>
 Olá! Esse programa foi feito para facilitar a vida das pessoas que não sabem fazer o cálculo do imposto de renda.
 
-<h2>O IR 2000 vem com a solução para esse problema</h2>
-
 Para utilizar o programa é simples. Basta executá-lo e escolher a opção desejada.
 
 <strong>Requisitos para a execução:</strong>
